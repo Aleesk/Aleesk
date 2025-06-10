@@ -7,4 +7,4 @@
 - 🎓 I'm University Student
 - 📫 Discord: <b>@aleesk</b>
 
-![Aleesk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleesk&show_icons=true&theme=radical)
+![Aleesk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleesk&show_icons=true&theme=tokyonight)
